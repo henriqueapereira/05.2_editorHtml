@@ -1,0 +1,15 @@
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05.2_editorHtml\bin\Debug\net7.0\05.2_editorHtml.exe
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05.2_editorHtml\bin\Debug\net7.0\05.2_editorHtml.deps.json
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05.2_editorHtml\bin\Debug\net7.0\05.2_editorHtml.runtimeconfig.json
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05.2_editorHtml\bin\Debug\net7.0\05.2_editorHtml.dll
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05.2_editorHtml\bin\Debug\net7.0\05.2_editorHtml.pdb
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05.2_editorHtml\obj\Debug\net7.0\05.2_editorHtml.csproj.AssemblyReference.cache
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05.2_editorHtml\obj\Debug\net7.0\05.2_editorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05.2_editorHtml\obj\Debug\net7.0\05.2_editorHtml.AssemblyInfoInputs.cache
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05.2_editorHtml\obj\Debug\net7.0\05.2_editorHtml.AssemblyInfo.cs
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05.2_editorHtml\obj\Debug\net7.0\05.2_editorHtml.csproj.CoreCompileInputs.cache
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05.2_editorHtml\obj\Debug\net7.0\05.2_editorHtml.dll
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05.2_editorHtml\obj\Debug\net7.0\refint\05.2_editorHtml.dll
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05.2_editorHtml\obj\Debug\net7.0\05.2_editorHtml.pdb
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05.2_editorHtml\obj\Debug\net7.0\05.2_editorHtml.genruntimeconfig.cache
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\05.2_editorHtml\obj\Debug\net7.0\ref\05.2_editorHtml.dll
